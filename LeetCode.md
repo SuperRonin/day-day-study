@@ -1,6 +1,6 @@
-### 两数之和
+### 两数之和https://leetcode-cn.com/problems/two-sum/submissions/
 
-####方法一
+#### 方法一
 ```
 //原生对象
 var twoSum = function(nums, target) {
@@ -18,7 +18,7 @@ var twoSum = function(nums, target) {
 }
 ```
 
-####方法二
+#### 方法二
 ```
 // Map对象
 var twoSum = function(nums, target) {
@@ -35,6 +35,3 @@ var twoSum = function(nums, target) {
     }
 }
 ```
-
-
-console.log(twoSum([3,2,4], 6))
