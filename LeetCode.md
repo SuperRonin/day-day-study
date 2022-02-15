@@ -1,4 +1,4 @@
-### 两数之和https://leetcode-cn.com/problems/two-sum/submissions/
+### [两数之和](https://leetcode-cn.com/problems/two-sum/submissions/)
 
 #### 方法一
 ```
